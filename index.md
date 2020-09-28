@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 文章一
+[ddx533534.github.io/1.md]
 
 You can use the [editor on GitHub](https://github.com/ddx533534/ddx533534.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
